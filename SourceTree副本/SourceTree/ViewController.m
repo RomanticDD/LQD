@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"gfdssssdfgasd");
+    self.view.backgroundColor = [UIColor cyanColor];
     }
 
 - (void)didReceiveMemoryWarning {
